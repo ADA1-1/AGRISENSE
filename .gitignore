@@ -1,0 +1,7 @@
+backend/data/
+.env
+.env.*
+!.env.example
+.neon
+node_modules/
+dist/
